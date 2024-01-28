@@ -1,0 +1,5 @@
+﻿  SolucionSumaArreglosParalela_Hansel_Zapiain.cpp
+C:\Users\hzapi\source\repos\SolucionSumaArreglosParalela_Hansel_Zapiain\SolucionSumaArreglosParalela_Hansel_Zapiain.cpp(22,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\hzapi\source\repos\SolucionSumaArreglosParalela_Hansel_Zapiain\SolucionSumaArreglosParalela_Hansel_Zapiain.cpp(23,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hzapi\source\repos\SolucionSumaArreglosParalela_Hansel_Zapiain\SolucionSumaArreglosParalela_Hansel_Zapiain.cpp(14,5): warning C4101: 'i': unreferenced local variable
+  SolucionSumaArreglosParalela_Hansel_Zapiain.vcxproj -> C:\Users\hzapi\source\repos\SolucionSumaArreglosParalela_Hansel_Zapiain\x64\Debug\SolucionSumaArreglosParalela_Hansel_Zapiain.exe
